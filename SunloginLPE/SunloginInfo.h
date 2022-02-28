@@ -1,4 +1,4 @@
-// 向日葵基础信息
+// 鍚戞棩钁靛熀纭�淇℃伅
 
 int getSunloginPort(char* iPID, char* oPort);
 
